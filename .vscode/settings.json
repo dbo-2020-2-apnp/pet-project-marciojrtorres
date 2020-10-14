@@ -11,7 +11,7 @@
   "editor.formatOnSave": false,
   "editor.fontFamily": "'Fira Code', 'Source Code Pro', 'Consolas', 'Droid Sans Mono', 'monospace'",
   "editor.fontLigatures": true,
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 2,
   "vsicons.dontShowNewVersionMessage": true,
   "files.watcherExclude": {
     "node_modules/*": true,
